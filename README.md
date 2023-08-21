@@ -26,6 +26,9 @@
 
 # 기존 논문과 다른 점
 몇 가지 알고 있는 "비정상" 데이터에 대한 loss를 기존 DCL loss 에 추가
+
+![image](https://github.com/KimChangHyun-design/Anomaly-detection-using-NEW-LOE/assets/127087508/708c985d-2a00-4857-8ebc-16e8c7a60f00)
+
 -> 파라미터 성능 향상
 
 # Base Thesis
