@@ -11,7 +11,9 @@
 ![image](https://github.com/KimChangHyun-design/Anomaly-detection-using-NEW-LOE/assets/127087508/a6d29e34-305c-4403-8d68-511c148efb38)
 
 1. 모델이 스스로 Strain score를 계산하여 label 판정(정상 or 비정상)
+
 '정상이라고 판단'했을 때 => yi=0
+
 -> A VS A' 비슷한 정도 크게
 -> A' VS A'' 비슷한 정도 작게
 (A는 원래 DATA , A' A''는 transform 된 DATA)
